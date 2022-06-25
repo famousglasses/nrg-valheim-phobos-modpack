@@ -2,8 +2,8 @@
 	<PropertyGroup>
 		<TargetFramework>net40</TargetFramework>
 		<AssemblyName>PhobosModpack</AssemblyName>
-		<Description>My first plugin</Description>
-		<Version>1.0.0</Version>
+		<Description>Modpack for Phobos build server</Description>
+		<Version>1.0.4</Version>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<LangVersion>latest</LangVersion>
 	</PropertyGroup>
