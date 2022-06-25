@@ -1,0 +1,2 @@
+#!/bin/sh
+cp PhobosModpack.dll ~/.config/r2modmanPlus-local/Valheim/profiles/Dev/BepInEx/plugins/
