@@ -1,2 +1,8 @@
 #!/bin/sh
-cp PhobosModpack.dll ~/.config/r2modmanPlus-local/Valheim/profiles/Dev/BepInEx/plugins/
+r2plus=~/.config/r2modmanPlus-local
+profiles=$r2plus/Valheim/profiles
+dev=$profiles/Dev/BepInEx
+phobos=$dev/plugins/Solykos-Phobos
+mkdir $phobos
+cp -r PhobosModpack.dll config manifest.json icon.png $phobos/
+
