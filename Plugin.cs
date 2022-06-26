@@ -3,7 +3,7 @@ using BepInEx.Configuration;
 using System.IO;
 
 namespace PhobosModpack {
-	[BepInPlugin("nrg.valheim.phobosmodpack", "Phobos", "1.1.0")]
+	[BepInPlugin("nrg.valheim.phobosmodpack", "Phobos", "1.1.1")]
 	public class PhobosModpack : BaseUnityPlugin {
 		private ConfigEntry<bool> cfgCopy;
 

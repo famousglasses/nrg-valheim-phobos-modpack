@@ -1,6 +1,6 @@
 {
 	"name": "Phobos",
-	"version_number": "1.1.0",
+	"version_number": "1.1.1",
 	"website_url": "https://github.com/famousglasses/nrg-valheim-phobos-modpack",
 	"description": "Modpack for Phobos build server",
 	"dependencies": [
