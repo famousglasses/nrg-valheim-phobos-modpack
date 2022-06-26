@@ -3,7 +3,7 @@
 		<TargetFramework>net40</TargetFramework>
 		<AssemblyName>PhobosModpack</AssemblyName>
 		<Description>Modpack for Phobos build server</Description>
-		<Version>1.0.4</Version>
+		<Version>1.1.0</Version>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<LangVersion>latest</LangVersion>
 	</PropertyGroup>
